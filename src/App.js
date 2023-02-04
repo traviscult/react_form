@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="form-div">
-      <form className="form">
+      <form className="user-form">
         <input
           className="form-field"
           type="text"
